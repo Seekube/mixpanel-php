@@ -1,5 +1,5 @@
 {
-    "name": "mixpanel/php-sdk",
+    "name": "seekube/mixpanel-php-sdk",
     "description": "Mixpanel PHP SDK",
     "keywords": ["mixpanel", "sdk"],
     "type": "library",
