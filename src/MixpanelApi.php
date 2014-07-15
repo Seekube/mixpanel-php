@@ -4,7 +4,7 @@
  * Requires PHP 5.2 with JSON
  */
 
-class Mixpanel
+class MixpanelApi
 {
     private $api_url = 'http://mixpanel.com/api';
     private $version = '2.0';
